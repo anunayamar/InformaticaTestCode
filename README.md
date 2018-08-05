@@ -4,7 +4,7 @@ The code sorts big text file and generates an `final_result` file that contains 
 
 1. To launch the file execute the `Launcher.java`
 2. `Launcher.java` will ask for input file name. Please enter full path. Example `c:\Sample\my_input_text.txt`.
-3. Finally, it will generate a file called `final_result`. It will contain the unique words in ascending order.
+3. Finally, it will generate a file called `final_result`. It will contain the unique words in ascending order, used `String` `compareTo` method to sort.
 
 # Architecture
 
